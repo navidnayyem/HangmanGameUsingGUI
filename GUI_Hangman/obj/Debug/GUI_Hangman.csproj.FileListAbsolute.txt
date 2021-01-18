@@ -1,0 +1,10 @@
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\GUI_Hangman\GUI_Hangman\bin\Debug\GUI_Hangman.exe.config
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\GUI_Hangman\GUI_Hangman\bin\Debug\GUI_Hangman.exe
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\GUI_Hangman\GUI_Hangman\bin\Debug\GUI_Hangman.pdb
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\GUI_Hangman\GUI_Hangman\obj\Debug\GUI_Hangman.csprojAssemblyReference.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\GUI_Hangman\GUI_Hangman\obj\Debug\GUI_Hangman.Form1.resources
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\GUI_Hangman\GUI_Hangman\obj\Debug\GUI_Hangman.Properties.Resources.resources
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\GUI_Hangman\GUI_Hangman\obj\Debug\GUI_Hangman.csproj.GenerateResource.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\GUI_Hangman\GUI_Hangman\obj\Debug\GUI_Hangman.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\GUI_Hangman\GUI_Hangman\obj\Debug\GUI_Hangman.exe
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\GUI_Hangman\GUI_Hangman\obj\Debug\GUI_Hangman.pdb
